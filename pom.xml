@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.thuannd</groupId>
 	<artifactId>integrationdemo</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.3-RELEASE</version>
 	<name>demo</name>
 	<description>Demo project for Spring Boot</description>
 
